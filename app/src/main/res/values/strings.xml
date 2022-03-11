@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Money Converter</string>
+    <string name="label_real">R$</string>
+    <string name="label_dolar">U$</string>
+    <string name="lable_euro">€</string>
+    <string name="lable_button">Convert</string>
+</resources>
